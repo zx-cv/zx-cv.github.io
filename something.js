@@ -1,1 +1,1 @@
-console.log("fdsfa")
+console.log("fdsfa");
